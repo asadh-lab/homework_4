@@ -163,8 +163,7 @@ header p{
   border: 10px solid black;
   padding: 30px;
   /*Your code here:*/
-  text-align: left;
-  position: relative;
+  align-self: center;
 
 }
 
